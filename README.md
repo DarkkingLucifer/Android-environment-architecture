@@ -1,6 +1,6 @@
 # Android-environment-architecture
 
-[版权所有，转载注明]()
+[版权所有，转载注明](https://github.com/DarkkingLucifer/Android-environment-architecture)
 
 >换了个新笔记本，刚好写一篇对于初学者的Android环境搭建指南。内容从全新笔记本到新建一个项目。顺便学习一下简书怎么写文档。后续Android环境搭建链接在本文末尾。如有问题还请大佬们在评论出指出，谢谢。
 
