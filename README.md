@@ -4,9 +4,9 @@
 
 >换了个新笔记本，刚好写一篇对于初学者的Android环境搭建指南。内容从全新笔记本到新建一个项目。顺便学习一下简书怎么写文档。后续Android环境搭建链接在本文末尾。如有问题还请大佬们在评论出指出，谢谢。
 
-##1.  配置Java环境
+## 1.  配置Java环境
 
-###1.1  下载并安装jdk和jre
+### 1.1  下载并安装jdk和jre
 
 - 首先到Oracle官网下载
 >https://www.oracle.com/technetwork/java/javase/downloads/index.html
@@ -15,7 +15,7 @@
 
 ![图片.png](https://upload-images.jianshu.io/upload_images/3722198-dd9d9c44cb977d75.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-###1.2  设置jdk和jre路径
+### 1.2  设置jdk和jre路径
 
 - 虽然默认jdk安装在C:\Program Files\Java\jdk1.8.0_201\目录下，但是**Program Files**中间有个空格，cmd命令行运行时会造成机器不识别，这个后面会讲到。所以建议单独设置为两个单独的没有空格的英文文件夹下，因为cmd命令行也不识别中文。【开发工具】【源代码】【公共JRE】这三个都需要点选。
 
@@ -25,7 +25,7 @@
 
 ![图片.png](https://upload-images.jianshu.io/upload_images/3722198-628e59ccdfcd6319.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-###1.3  设置Java环境变量
+### 1.3  设置Java环境变量
 
 - 我的电脑>属性>高级系统设置
 ![图片.png](https://upload-images.jianshu.io/upload_images/3722198-9ab1ca6cba6a39ba.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
